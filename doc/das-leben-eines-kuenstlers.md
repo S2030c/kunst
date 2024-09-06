@@ -1,7 +1,7 @@
-—  
+---
 title: Das Leben eines Künstlers – jenseits materieller Werte  
 permalink: /doc/das-leben-eines-kuenstlers/  
-\---
+---
 
 Das Leben eines Künstlers ist ein Tanz zwischen Inspiration und Realität, zwischen den Höhen kreativer Ekstase und den Tiefen existenzieller Zweifel. Es ist ein Weg, der oft abseits der ausgetretenen Pfade verläuft, ein Leben, das sich den Zwängen einer rein materialistisch geprägten Welt entzieht.
 
