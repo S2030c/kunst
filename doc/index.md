@@ -11,4 +11,4 @@ Der **Wert des Menschen** ist eine Frage, die Philosophen seit Jahrtausenden bes
 ----
 
 **Künstler denken in anderen Kategorien als ihre Zeitgenossen.** Während sich viele Menschen in einer Welt bewegen, die von Zahlen, Daten und materiellen Erfolgen dominiert wird, suchen Künstler nach tieferen Wahrheiten, nach dem, was hinter den Fassaden liegt. Sie sind neugierig auf das Unsichtbare, das Unbekannte, das, was sich den Worten entzieht. Ihre Welt ist eine Welt der Symbole, der Metaphern und der Emotionen.   
-[Lesen](./das-leben-eines-kuenstlersk/) 2024-009-06
+[Lesen](./das-leben-eines-kuenstlers/) 2024-009-06
