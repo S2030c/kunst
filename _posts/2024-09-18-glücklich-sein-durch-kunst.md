@@ -1,9 +1,7 @@
 --- 
 title: Glücklich sein durch Kunst   
----
-Selbstverständlich\! Hier ist ein Aufsatz, der die Forderung nach Glück durch Kunstkonsum beleuchtet und deren Absurdität hinterfragt:  
-**Kunst und Glück: Eine unmögliche Gleichung?**  
-Die Kunst, in all ihren Facetten, wird oft als Quelle der Inspiration, des Trostes und der Freude betrachtet. Sie berührt unsere Emotionen, regt zum Nachdenken an und eröffnet uns neue Perspektiven auf die Welt. Doch die **Erwartung, dass** **Kunst uns automatisch glücklich macht**, ist eine Forderung, die an ihre Grenzen stößt und letztlich absurd erscheint.
+---  
+Die Kunst, in all ihren Facetten, wird oft als Quelle der Inspiration, des Trostes und der Freude betrachtet. Sie berührt unsere Emotionen, regt zum Nachdenken an und eröffnet uns neue Perspektiven auf die Welt. Doch die **Erwartung, dass Kunst uns automatisch glücklich macht**, ist eine Forderung, die an ihre Grenzen stößt und letztlich absurd erscheint.
 
 Die Kunst ist ein Spiegelbild der menschlichen Existenz, in all ihrer Vielfalt und Komplexität. Sie spiegelt sowohl unsere schönsten Träume als auch unsere tiefsten Ängste wider. Während einige Kunstwerke uns zum Lachen bringen, können andere uns traurig oder wütend machen. Es ist diese Vielschichtigkeit, die die Kunst so faszinierend und zugleich so herausfordernd macht. Es ist diese unerwartbare Vielschichtigkeit, die Kunst lebendig erscheinen lässt, und etwas in uns anstößt, und Emotionen hervorbringt.
 
